@@ -1,0 +1,6 @@
+@GamesWebApiBelyshevSemyon.Core_HostAddress = http://localhost:5241
+
+GET {{GamesWebApiBelyshevSemyon.Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
