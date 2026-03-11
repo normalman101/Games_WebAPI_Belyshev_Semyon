@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XodXTex8ce0=",
+  "dgSpecHash": "WXng6sdJX98=",
   "success": true,
   "projectFilePath": "C:\\Projects\\Rider\\Games_WebAPI_Belyshev_Semyon\\GamesWebApiBelyshevSemyon.Core\\GamesWebApiBelyshevSemyon.Core\\GamesWebApiBelyshevSemyon.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Semyon\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
     "C:\\Users\\Semyon\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
-    "C:\\Users\\Semyon\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+    "C:\\Users\\Semyon\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.5\\swashbuckle.aspnetcore.swaggerui.10.1.5.nupkg.sha512"
   ],
   "logs": []
 }

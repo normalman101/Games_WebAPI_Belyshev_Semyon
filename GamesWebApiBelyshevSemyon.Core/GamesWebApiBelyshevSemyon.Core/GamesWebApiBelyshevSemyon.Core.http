@@ -1,6 +1,32 @@
-@GamesWebApiBelyshevSemyon.Core_HostAddress = http://localhost:5241
+@url = http://localhost:5241
 
-GET {{GamesWebApiBelyshevSemyon.Core_HostAddress}}/weatherforecast/
+GET {{url}}/api/competitions/
 Accept: application/json
+
+###
+
+GET {{url}}/api/competitions/{{id}}
+
+###
+
+POST {{url}}/api/competitions
+Content-Type: application/json
+
+{
+  "Id": "3fa85f64-5717-4562-b3fc-66afa62c963f",
+  "Name": "Velikie Alkashi",
+  "Date": "2024-07-01T01:00:00",
+  "Location": "Muhosransk, Russia",
+  "SportType": "Viypivka Alkogolya"
+}
+
+###
+
+PUT {{url}}//api/competitions/{{id}}
+Content-Type: application/json
+
+{ 
+  "Id": ""
+}
 
 ###

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GamesWebApiBelyshevSemyon.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf5b105fc68edf76c30d4bb62c90fae488e122ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+586392bb1cf3a9dcfd39eb73b92b98ad402a1926")]
 [assembly: System.Reflection.AssemblyProductAttribute("GamesWebApiBelyshevSemyon.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GamesWebApiBelyshevSemyon.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

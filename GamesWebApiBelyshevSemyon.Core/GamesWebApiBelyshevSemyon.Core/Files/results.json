@@ -1,0 +1,66 @@
+[
+  {
+    "Id": "c9d8e7f6-a5b4-c3d2-e1f0-a9b8c7d6e5f4",
+    "CompetitionId": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "ParticipantName": "\u0415\u043B\u0435\u043D\u0430 \u041A\u0443\u0437\u043D\u0435\u0446\u043E\u0432\u0430",
+    "Place": 4,
+    "Score": 88,
+    "IsDeleted": false
+  },
+  {
+    "Id": "3b2a1c0d-e9f8-a7b6-c5d4-e3f2a1b0c9d8",
+    "CompetitionId": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "ParticipantName": "\u0418\u0433\u043E\u0440\u044C \u041F\u0435\u0442\u0440\u043E\u0432",
+    "Place": 5,
+    "Score": 84,
+    "IsDeleted": false
+  },
+  {
+    "Id": "f5e4d3c2-b1a0-9f8e-7d6c-5b4a3f2e1d0c",
+    "CompetitionId": "7b8c9d0e-1f2a-3b4c-5d6e-7f8a9b0c1d2e",
+    "ParticipantName": "\u0410\u043D\u043D\u0430 \u041F\u0430\u0432\u043B\u043E\u0432\u0430",
+    "Place": 6,
+    "Score": 82,
+    "IsDeleted": false
+  },
+  {
+    "Id": "2d3e4f5a-6b7c-8d9e-0f1a-2b3c4d5e6f7a",
+    "CompetitionId": "9a8b7c6d-5e4f-3a2b-1c0d-9e8f7a6b5c4d",
+    "ParticipantName": "\u0421\u0435\u0440\u0433\u0435\u0439 \u041C\u043E\u0440\u043E\u0437\u043E\u0432",
+    "Place": 7,
+    "Score": 79,
+    "IsDeleted": false
+  },
+  {
+    "Id": "a1b2c3d4-e5f6-0a1b-2c3d-4e5f6a7b8c9d",
+    "CompetitionId": "bcdef012-3456-7890-abcd-ef0123456789",
+    "ParticipantName": "\u041E\u043B\u044C\u0433\u0430 \u0421\u043E\u043A\u043E\u043B\u043E\u0432\u0430",
+    "Place": 8,
+    "Score": 75,
+    "IsDeleted": false
+  },
+  {
+    "Id": "7c8d9e0f-1a2b-3c4d-5e6f-7a8b9c0d1e2f",
+    "CompetitionId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "ParticipantName": "\u0412\u0438\u043A\u0442\u043E\u0440 \u0421\u043C\u0438\u0440\u043D\u043E\u0432",
+    "Place": 9,
+    "Score": 72,
+    "IsDeleted": false
+  },
+  {
+    "Id": "4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+    "CompetitionId": "3fa85f64-5717-4562-b3fc-66afa62c963f",
+    "ParticipantName": "\u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432\u0430",
+    "Place": 10,
+    "Score": 68,
+    "IsDeleted": false
+  },
+  {
+    "Id": "8f7e6d5c-4b3a-2f1e-0d9c-8b7a6f5e4d3c",
+    "CompetitionId": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
+    "ParticipantName": "\u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0418\u0432\u0430\u043D\u043E\u0432",
+    "Place": 3,
+    "Score": 91,
+    "IsDeleted": true
+  }
+]
