@@ -1,13 +1,5 @@
 [
   {
-    "Id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d",
-    "Name": "Wimbledon Championships",
-    "Date": "2024-07-01T11:00:00",
-    "Location": "London, UK",
-    "SportType": "Tennis",
-    "IsDeleted": false
-  },
-  {
     "Id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
     "Name": "Tour de France",
     "Date": "2024-06-29T10:30:00",
@@ -93,6 +85,14 @@
     "Date": "2024-07-06T09:00:00",
     "Location": "Zermatt, Switzerland",
     "SportType": "Running",
+    "IsDeleted": true
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "Name": "Wimbledon Championships",
+    "Date": "2024-07-01T11:00:00",
+    "Location": "London, UK",
+    "SportType": "Basketball",
     "IsDeleted": true
   }
 ]
