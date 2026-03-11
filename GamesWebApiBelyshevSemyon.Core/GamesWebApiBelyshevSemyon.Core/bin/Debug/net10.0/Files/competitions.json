@@ -64,14 +64,6 @@
     "IsDeleted": false
   },
   {
-    "Id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
-    "Name": "string",
-    "Date": "2026-03-10T14:33:48.41Z",
-    "Location": "string",
-    "SportType": "string",
-    "IsDeleted": true
-  },
-  {
     "Id": "3fa85f64-5717-4562-b3fc-66afa62c963f",
     "Name": "Velikie Alkashi",
     "Date": "2024-07-01T01:00:00",
@@ -104,11 +96,19 @@
     "IsDeleted": false
   },
   {
+    "Id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "Name": "string",
+    "Date": "2026-03-11T16:14:01.036Z",
+    "Location": "Russia, Moscow",
+    "SportType": "string",
+    "IsDeleted": true
+  },
+  {
     "Id": "da4d51c5-6577-4124-bf65-baa52c9f379f",
     "Name": "Test1",
     "Date": "2026-03-11T10:28:47.515Z",
     "Location": "test1",
     "SportType": "string",
-    "IsDeleted": false
+    "IsDeleted": true
   }
 ]

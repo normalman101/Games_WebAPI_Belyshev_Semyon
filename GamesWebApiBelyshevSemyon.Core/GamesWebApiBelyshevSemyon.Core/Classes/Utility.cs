@@ -1,22 +1,24 @@
 ﻿using System.Text.Json;
+// ReSharper disable CheckNamespace
 
-namespace GamesWebApiBelyshevSemyon.Core.Classes;
-
-public static class Utility
+namespace WebAPI
 {
-    public static bool IsEmpty(string variable)
+    public static class Utility
     {
-        return (variable.Length == 0);
-    }
+        public static bool IsEmpty(string variable)
+        {
+            return (variable.Length == 0);
+        }
 
-    public static bool IsNull<T>(T variable)
-    {
-        return (variable == null);
-    }
+        public static bool IsNull<T>(T variable)
+        {
+            return (variable == null);
+        }
 
-    public static void UpdateDataFile<T>(string filePath, T data) where T : class
-    {
-        var option = new JsonSerializerOptions { WriteIndented = true };
-        File.WriteAllText(filePath, JsonSerializer.Serialize(data, option));
+        public static void UpdateDataFile<T>(string filePath, T data) where T : class
+        {
+            var option = new JsonSerializerOptions { WriteIndented = true };
+            File.WriteAllText(filePath, JsonSerializer.Serialize(data, option));
+        }
     }
 }

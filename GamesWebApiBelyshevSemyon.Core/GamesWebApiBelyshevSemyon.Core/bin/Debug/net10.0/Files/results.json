@@ -1,21 +1,5 @@
 [
   {
-    "Id": "c9d8e7f6-a5b4-c3d2-e1f0-a9b8c7d6e5f4",
-    "CompetitionId": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
-    "ParticipantName": "\u0415\u043B\u0435\u043D\u0430 \u041A\u0443\u0437\u043D\u0435\u0446\u043E\u0432\u0430",
-    "Place": 4,
-    "Score": 88,
-    "IsDeleted": false
-  },
-  {
-    "Id": "3b2a1c0d-e9f8-a7b6-c5d4-e3f2a1b0c9d8",
-    "CompetitionId": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
-    "ParticipantName": "\u0418\u0433\u043E\u0440\u044C \u041F\u0435\u0442\u0440\u043E\u0432",
-    "Place": 5,
-    "Score": 84,
-    "IsDeleted": false
-  },
-  {
     "Id": "f5e4d3c2-b1a0-9f8e-7d6c-5b4a3f2e1d0c",
     "CompetitionId": "7b8c9d0e-1f2a-3b4c-5d6e-7f8a9b0c1d2e",
     "ParticipantName": "\u0410\u043D\u043D\u0430 \u041F\u0430\u0432\u043B\u043E\u0432\u0430",
@@ -62,5 +46,29 @@
     "Place": 3,
     "Score": 91,
     "IsDeleted": true
+  },
+  {
+    "Id": "3b2a1c0d-e9f8-a7b6-c5d4-e3f2a1b0c9d8",
+    "CompetitionId": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "ParticipantName": "\u0418\u0433\u043E\u0440\u044C \u041F\u0435\u0442\u0440\u043E\u0432",
+    "Place": 1,
+    "Score": 84,
+    "IsDeleted": false
+  },
+  {
+    "Id": "00000000-0000-0000-0000-000000000000",
+    "CompetitionId": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "ParticipantName": "Test",
+    "Place": 4,
+    "Score": 88,
+    "IsDeleted": true
+  },
+  {
+    "Id": "72a1c80a-7503-43e4-8048-5bc3884fffe2",
+    "CompetitionId": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "ParticipantName": "Velikyi",
+    "Place": 1,
+    "Score": 99,
+    "IsDeleted": false
   }
 ]
